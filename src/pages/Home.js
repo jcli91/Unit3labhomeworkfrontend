@@ -1,5 +1,9 @@
 function Home(props) {
-    return <h1>Home</h1>;
+    return <div>
+        <h3>Hello welcome to my portfolio! Please use the links in the navigation bar to see the rest of my page! Enjoy!</h3>
+
+
+    </div>
   }
   
   export default Home;
